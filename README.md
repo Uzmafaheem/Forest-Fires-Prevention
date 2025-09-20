@@ -88,14 +88,8 @@ Issue timely alerts for high-risk conditions.
 
 Minimize destruction caused by wildfires.
 
-📂 Repository Structure
-├── data/                 # Raw and processed datasets
-├── notebooks/            # Jupyter notebooks for analysis and modeling
-├── src/                  # Python scripts for preprocessing, modeling, evaluation
-├── visuals/              # Plots and charts generated during analysis
-├── README.md             # Project documentation (this file)
-📖 References
+## 📖 References
 
 UCI Machine Learning Repository: Forest Fires Dataset
 
-Hastie, Tibshirani, and Friedman – The Elements of Statistical Learning
+
